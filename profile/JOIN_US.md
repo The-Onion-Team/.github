@@ -27,7 +27,7 @@ We’re currently looking for:
 ## 📝 How to Apply
 1. Make sure you have a GitHub account.
 2. Fill out **[this application form](https://example.com)** 
-   _or_ send an email to **[your-email@example.com](mailto:onion@gmail.com)** with:
+   _or_ send an email to **[onion@gmail,com](mailto:onion@gmail.com)** with:
    - Your **name** and **GitHub username/link**
    - Your **skills** and **experience level**
    - Why you want to join Onion Org
@@ -54,4 +54,5 @@ If you have any questions before applying, you can:
 <p align="center">
   🚀 Grow with us. Build with us. Peel the layers.
 </p>
+
 
