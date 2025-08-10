@@ -31,7 +31,7 @@ We’re currently looking for:
    - Your **name** and **GitHub username/link**
    - Your **skills** and **experience level**
    - Why you want to join Onion Org
-   - The **role** you’re applying for
+   - The **role** you’re applying for (not necessary)
 3. Wait for our reply — we’ll get back to you within a few days.
 
 ---
@@ -54,5 +54,6 @@ If you have any questions before applying, you can:
 <p align="center">
   🚀 Grow with us. Build with us. Peel the layers.
 </p>
+
 
 
