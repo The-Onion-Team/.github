@@ -40,6 +40,18 @@ Check **[JOIN_US](JOIN_US.md)** for details on how to apply.
 
 ---
 
+## 📜 License
+
+All the project are licensed under the **[PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0)**.
+
+- ✅ **Personal**, **academic**, and **non-commercial** use is permitted.
+- ❌ **Commercial** use is prohibited without written permission from the team.
+- 📄 The full license text is available in the [`LICENSE`](./LICENSE) file.
+
+For commercial use inquiries, please contact: onion@gmail.com
+
+---
+
 ## 📢 Contact
 - 🌐 **Website:** [the-onion-team.github.io](https://the-onion-team.github.io/onion-org.github.io)
 - 💬 **Discord:** _link to server_
@@ -48,14 +60,10 @@ Check **[JOIN_US](JOIN_US.md)** for details on how to apply.
 
 ---
 
-## 📜 License
-
-
----
-
 <p align="center">
   Made with ❤️ by Onion Org
 </p>
+
 
 
 
