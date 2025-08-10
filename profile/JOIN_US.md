@@ -47,10 +47,11 @@ We’re currently looking for:
 ## 📬 Questions?
 If you have any questions before applying, you can:
 - Open a [GitHub Discussion](https://github.com/orgs/Onion-Org/discussions)
-- Contact us via email: **[your-email@example.com](mailto:your-email@example.com)**
+- Contact us via email: **[onion@gmail,com](mailto:onion@gmail.com)**
 
 ---
 
 <p align="center">
   🚀 Grow with us. Build with us. Peel the layers.
 </p>
+
