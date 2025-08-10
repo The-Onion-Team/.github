@@ -28,7 +28,7 @@ We are currently working on our first major project:
 ## 🤝 How to Contribute
 We want to build a community of developers, designers, and tech enthusiasts.  
 If you’d like to contribute:
-1. Contact us and apply at **[JOIN_US.md](JOIN_US.md)**
+1. Contact us and apply at **[JOIN_US](JOIN_US.md)**
 2. Follow our **[CODE OF CONDUCT](CODE_OF_CONDUCT.md)**
 3. Open an *issue*or send us an email.
 
@@ -36,7 +36,7 @@ If you’d like to contribute:
 
 ## 🧑‍💻 Join the Team
 We’re looking for motivated people who want to grow with us.  
-Check **[JOIN_US.md](JOIN_US.md)** for details on how to apply.
+Check **[JOIN_US](JOIN_US.md)** for details on how to apply.
 
 ---
 
@@ -56,5 +56,6 @@ Check **[JOIN_US.md](JOIN_US.md)** for details on how to apply.
 <p align="center">
   Made with ❤️ by Onion Org
 </p>
+
 
 
