@@ -13,16 +13,14 @@ Together, we aim to create an ecosystem of projects and applications that combin
 
 ## 🚀 What We Do
 We are currently working on our first major project:
-- 📱 **[App Name]** – A short description of the problem it solves and its main features.  
-*(You can add a screenshot or a link to a mockup here)*
 
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** React / Next.js *(or your chosen stack)*
-- **Backend:** Node.js / Express *(or other)*
-- **Database:** PostgreSQL / MongoDB *(or other)*
-- **DevOps:** GitHub Actions, Docker
+- **Frontend:** currently choosing
+- **Backend:** currently choosing
+- **Database:** currently choosing
+- **DevOps:** GitHub Actions
 - **Other:** Figma for design, Notion for organization
 
 ---
@@ -51,10 +49,11 @@ Check **[JOIN_US.md](JOIN_US.md)** for details on how to apply.
 ---
 
 ## 📜 License
-This project is released under the **MIT License** – see [LICENSE](LICENSE) for details.
+
 
 ---
 
 <p align="center">
   Made with ❤️ by Onion Org
 </p>
+
