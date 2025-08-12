@@ -55,7 +55,7 @@ For commercial use inquiries, please contact: onion@gmail.com
 
 ## 📢 Contact
 - 🌐 **Website:** [the-onion-team.github.io](https://the-onion-team.github.io/onion-org.github.io)
-- 💬 **Discord:** [Discord](https://discord.gg/EJUkRN4Q)
+- 💬 **Discord:** [Discord](https://discord.gg/T6JQDxmypW)
 - ✉️ **Email:** onionteam.dev@gmail.com
 - 📸 **Socials:** _Instagram/Twitter links_
 
@@ -64,6 +64,7 @@ For commercial use inquiries, please contact: onion@gmail.com
 <p align="center">
   Made with ❤️ by Onion Org
 </p>
+
 
 
 
