@@ -30,7 +30,8 @@ We want to build a community of developers, designers, and tech enthusiasts.
 If you’d like to contribute:
 1. Contact us and apply at **[JOIN_US](JOIN_US.md)**
 2. Follow our **[CODE OF CONDUCT](CODE_OF_CONDUCT.md)**
-3. Open an *issue*or send us an email.
+3. Send us an email.
+
 
 ---
 
@@ -63,6 +64,7 @@ For commercial use inquiries, please contact: onion@gmail.com
 <p align="center">
   Made with ❤️ by Onion Org
 </p>
+
 
 
 
