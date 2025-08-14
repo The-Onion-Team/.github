@@ -49,7 +49,7 @@ All the project are licensed under the **[PolyForm Noncommercial License 1.0.0](
 - ❌ **Commercial** use is prohibited without written permission from the team.
 - 📄 The full license text is available in the [`LICENSE`](LICENSE) file.
 
-For commercial use inquiries, please contact: onion@gmail.com
+For commercial use inquiries, please contact: onionteam.dev@gmail.com
 
 ---
 
@@ -64,6 +64,7 @@ For commercial use inquiries, please contact: onion@gmail.com
 <p align="center">
   Made with ❤️ by Onion Org
 </p>
+
 
 
 
