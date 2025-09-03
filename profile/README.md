@@ -17,9 +17,9 @@ We are currently working on our first major project:
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** currently choosing
-- **Backend:** currently choosing
-- **Database:** currently choosing
+- **Frontend:** React Native + Expo
+- **Backend:** Node (NestJS/Express)
+- **Database:** PostgreSQL + PostGIS
 - **DevOps:** GitHub Actions
 - **Other:** Figma for design, Notion for organization
 
@@ -64,6 +64,7 @@ For commercial use inquiries, please contact: onionteam.dev@gmail.com
 <p align="center">
   Made with ❤️ by Onion Org
 </p>
+
 
 
 
