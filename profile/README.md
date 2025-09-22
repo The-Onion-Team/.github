@@ -57,13 +57,14 @@ For commercial use inquiries, please contact: onionteam.dev@gmail.com
 - 🌐 **Website:** [the-onion-team.github.io](https://the-onion-team.github.io/onion-org.github.io)
 - 💬 **Discord:** [Discord](https://discord.gg/T6JQDxmypW)
 - ✉️ **Email:** onionteam.dev@gmail.com
-- 📸 **Socials:** _Instagram/Twitter links_
+- 📸 **Socials:** [Instagram]([https://discord.gg/T6JQDxmypW](https://www.instagram.com/onionteam.dev/))
 
 ---
 
 <p align="center">
   Made with ❤️ by Onion Org
 </p>
+
 
 
 
